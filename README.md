@@ -1,5 +1,6 @@
 # Financial Risk Analytics & Decision Engine
 ("Bu analizler yatırım tavsiyesi değildir")
+(Bu projedeki veri seti, yalnızca kodların nasıl çalıştığını göstermek ve eğitim amacıyla kap.org.tr adresinden indirilmiş örnek bir statik veridir. Herhangi bir ticari amacı veya veri dağıtım niteliği taşımamaktadır.")
 *[Türkçe versiyon için aşağı kaydırın / Scroll down for Turkish version](#türkçe-versiyon)*
 
 This project is a Python and Streamlit-based **Decision Support & Risk Scoring Engine** that analyzes corporate financial statements, applying statistical trend analysis, linear scoring, and macroeconomic stress testing.
