@@ -182,7 +182,7 @@ The Streamlit dashboard exposes these as interactive sliders with live score rec
 
 ```bash
 # Clone repository
-git clone https://github.com/username/financial-risk-engine.git
+git clone https://github.com/malpyilmaz/financial-risk-engine.git
 cd financial-risk-engine
 
 # Install dependencies
@@ -225,7 +225,7 @@ Reads `aselsan.xlsx` from the working directory and prints ratio scores, benchma
 ```python
 from engine import FinancialRiskAnalyzer
 
-analyzer = FinancialRiskAnalyzer("company.xlsx")
+analyzer = FinancialRiskAnalyzer("aselsan.xlsx")
 
 # Compute ratios
 ratios = analyzer.rasyolari_hesapla()
@@ -243,8 +243,7 @@ sim_score, sim_risk = analyzer.senaryo_simule_et(
     borc_degisim_yuzdesi=10
 )
 
-# Export Excel report
-analyzer.excel_rapor_olustur("report.xlsx")
+
 ```
 
 ---
