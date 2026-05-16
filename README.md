@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Pandas-Analytics-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-Scientific-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"/>
+  <img src="[https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=for-the-badge](https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=for-the-badge)"/>
 </p>
 
 <p align="center">
