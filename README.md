@@ -296,6 +296,6 @@ This project is developed solely for **educational and portfolio purposes**.
 Statistics & Data Science | Risk Analytics · Machine Learning · Financial Modeling
 
 <p>
-  <a href="www.linkedin.com/in/malpyilmaz"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/malpyilmaz"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"/></a>
   <a href="mailto:malpylmz26@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
